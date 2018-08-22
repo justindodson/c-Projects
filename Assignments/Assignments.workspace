@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Assignments" Database="" Version="10.0.0">
+  <Project Name="LetterPyramid" Path="LetterPyramid/LetterPyramid.project" Active="No"/>
+  <Project Name="MovieTracker" Path="MovieTracker/MovieTracker.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="LetterPyramid" ConfigName="Debug"/>
+      <Project Name="MovieTracker" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="LetterPyramid" ConfigName="Release"/>
+      <Project Name="MovieTracker" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
