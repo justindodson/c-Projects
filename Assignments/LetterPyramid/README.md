@@ -1,6 +1,6 @@
 # Letter Pyramid 
 
-The goal of this assignment was to create an algorith that would take in a string of characters and output the characters 
+The goal of this assignment was to create an algorithm that would take in a string of characters and output the characters 
 in a triangle. The triange would start with the first character and build each row to add the next new character on both sides
 of the row before it. 
 
